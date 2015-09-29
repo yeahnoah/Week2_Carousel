@@ -37,4 +37,4 @@ Completed User Stories:
 <br><br>
 <b>Gif:</b>
 <br>
-![alt tag](https://github.com/yeahnoah/Week2_Carousel/blob/master/week2_CarouselSubmission.gif)
+![alt tag](https://github.com/yeahnoah/Week2_Carousel/blob/master/wk2_carousel.gif)
