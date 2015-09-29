@@ -36,5 +36,5 @@ Completed User Stories:
 <br>Not 100% clear on the syntax/rationale for the animating the boxes on the first screen. I was mostly able to follow and create the animation, but don't have a strong grasp ont the concept. Most of everything else went well for me and after several bits of trial and error, was able to walk away without too much disdain for XCode.
 <br>
 <b>Gif:</b>
-<b>
+<br>
 ![alt tag](https://github.com/yeahnoah/Week2_Carousel/blob/master/week2_CarouselSubmission.gif)
