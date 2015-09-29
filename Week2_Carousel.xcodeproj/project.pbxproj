@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4F33BBF01BBA25FC00A980A1 /* feedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F33BBEF1BBA25FC00A980A1 /* feedViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		4F33BBF21BBA294B00A980A1 /* chatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F33BBF11BBA294B00A980A1 /* chatViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		4F33BBF41BBA2A4600A980A1 /* settingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F33BBF31BBA2A4600A980A1 /* settingsViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		4F33BBF61BBA2EFE00A980A1 /* createAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F33BBF51BBA2EFE00A980A1 /* createAccountViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		4F33BBF81BBA3A6500A980A1 /* termsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F33BBF71BBA3A6500A980A1 /* termsViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		4F34988D1BB48D3200A2B658 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F34988C1BB48D3200A2B658 /* AppDelegate.swift */; };
 		4F34988F1BB48D3200A2B658 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F34988E1BB48D3200A2B658 /* ViewController.swift */; };
 		4F3498921BB48D3200A2B658 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F3498901BB48D3200A2B658 /* Main.storyboard */; };
@@ -14,6 +19,10 @@
 		4F3498971BB48D3200A2B658 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F3498951BB48D3200A2B658 /* LaunchScreen.storyboard */; };
 		4F3498A21BB48D3300A2B658 /* Week2_CarouselTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F3498A11BB48D3300A2B658 /* Week2_CarouselTests.swift */; };
 		4F3498AD1BB48D3300A2B658 /* Week2_CarouselUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F3498AC1BB48D3300A2B658 /* Week2_CarouselUITests.swift */; };
+		4F3498BB1BB48F7700A2B658 /* Common.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F3498BA1BB48F7700A2B658 /* Common.swift */; settings = {ASSET_TAGS = (); }; };
+		4F3498BD1BB492B700A2B658 /* IntroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F3498BC1BB492B700A2B658 /* IntroViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		4F3498BF1BB8C37500A2B658 /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F3498BE1BB8C37500A2B658 /* SignInViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		4FBC570D1BBA159300D0FB2D /* TutorialView2Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FBC570C1BBA159300D0FB2D /* TutorialView2Controller.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +43,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4F33BBEF1BBA25FC00A980A1 /* feedViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = feedViewController.swift; sourceTree = "<group>"; };
+		4F33BBF11BBA294B00A980A1 /* chatViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = chatViewController.swift; sourceTree = "<group>"; };
+		4F33BBF31BBA2A4600A980A1 /* settingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = settingsViewController.swift; sourceTree = "<group>"; };
+		4F33BBF51BBA2EFE00A980A1 /* createAccountViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = createAccountViewController.swift; sourceTree = "<group>"; };
+		4F33BBF71BBA3A6500A980A1 /* termsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = termsViewController.swift; sourceTree = "<group>"; };
 		4F3498891BB48D3200A2B658 /* Week2_Carousel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Week2_Carousel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F34988C1BB48D3200A2B658 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4F34988E1BB48D3200A2B658 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +61,10 @@
 		4F3498A81BB48D3300A2B658 /* Week2_CarouselUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Week2_CarouselUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F3498AC1BB48D3300A2B658 /* Week2_CarouselUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Week2_CarouselUITests.swift; sourceTree = "<group>"; };
 		4F3498AE1BB48D3300A2B658 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4F3498BA1BB48F7700A2B658 /* Common.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Common.swift; sourceTree = "<group>"; };
+		4F3498BC1BB492B700A2B658 /* IntroViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IntroViewController.swift; sourceTree = "<group>"; };
+		4F3498BE1BB8C37500A2B658 /* SignInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
+		4FBC570C1BBA159300D0FB2D /* TutorialView2Controller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TutorialView2Controller.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +95,7 @@
 		4F3498801BB48D3200A2B658 = {
 			isa = PBXGroup;
 			children = (
+				4F33BBEF1BBA25FC00A980A1 /* feedViewController.swift */,
 				4F34988B1BB48D3200A2B658 /* Week2_Carousel */,
 				4F3498A01BB48D3300A2B658 /* Week2_CarouselTests */,
 				4F3498AB1BB48D3300A2B658 /* Week2_CarouselUITests */,
@@ -99,7 +118,15 @@
 			children = (
 				4F34988C1BB48D3200A2B658 /* AppDelegate.swift */,
 				4F34988E1BB48D3200A2B658 /* ViewController.swift */,
+				4F3498BA1BB48F7700A2B658 /* Common.swift */,
 				4F3498901BB48D3200A2B658 /* Main.storyboard */,
+				4F33BBF71BBA3A6500A980A1 /* termsViewController.swift */,
+				4F33BBF51BBA2EFE00A980A1 /* createAccountViewController.swift */,
+				4F33BBF31BBA2A4600A980A1 /* settingsViewController.swift */,
+				4F33BBF11BBA294B00A980A1 /* chatViewController.swift */,
+				4FBC570C1BBA159300D0FB2D /* TutorialView2Controller.swift */,
+				4F3498BE1BB8C37500A2B658 /* SignInViewController.swift */,
+				4F3498BC1BB492B700A2B658 /* IntroViewController.swift */,
 				4F3498931BB48D3200A2B658 /* Assets.xcassets */,
 				4F3498951BB48D3200A2B658 /* LaunchScreen.storyboard */,
 				4F3498981BB48D3200A2B658 /* Info.plist */,
@@ -256,7 +283,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				4F34988F1BB48D3200A2B658 /* ViewController.swift in Sources */,
+				4F33BBF01BBA25FC00A980A1 /* feedViewController.swift in Sources */,
+				4F33BBF81BBA3A6500A980A1 /* termsViewController.swift in Sources */,
+				4F33BBF41BBA2A4600A980A1 /* settingsViewController.swift in Sources */,
+				4F33BBF21BBA294B00A980A1 /* chatViewController.swift in Sources */,
+				4F3498BB1BB48F7700A2B658 /* Common.swift in Sources */,
 				4F34988D1BB48D3200A2B658 /* AppDelegate.swift in Sources */,
+				4F33BBF61BBA2EFE00A980A1 /* createAccountViewController.swift in Sources */,
+				4FBC570D1BBA159300D0FB2D /* TutorialView2Controller.swift in Sources */,
+				4F3498BF1BB8C37500A2B658 /* SignInViewController.swift in Sources */,
+				4F3498BD1BB492B700A2B658 /* IntroViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -481,6 +517,7 @@
 				4F3498B31BB48D3300A2B658 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4F3498B41BB48D3300A2B658 /* Build configuration list for PBXNativeTarget "Week2_CarouselTests" */ = {
 			isa = XCConfigurationList;
@@ -489,6 +526,7 @@
 				4F3498B61BB48D3300A2B658 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4F3498B71BB48D3300A2B658 /* Build configuration list for PBXNativeTarget "Week2_CarouselUITests" */ = {
 			isa = XCConfigurationList;
@@ -497,6 +535,7 @@
 				4F3498B91BB48D3300A2B658 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
